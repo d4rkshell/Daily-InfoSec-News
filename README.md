@@ -17,4 +17,3 @@ Script can be run daily via a scheduled task.
 
 ## Known Issues
 * Blank emails occasionally sent (usually a Sunday/Monday), instead of email to say "Nothing reported, check back tomorrow" (I need to find time to look at this, sorry!)
-* 
