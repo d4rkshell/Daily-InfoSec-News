@@ -1,5 +1,7 @@
-# Daily-InfoSec-News
-A quick and dirty PowerShell script to lookup daily InfoSec news from a variety of sources and email to user(s)
+# Daily-InfoSec-News 📰
+A quick and dirty PowerShell script to lookup daily InfoSec news from a variety of sources and email to user(s) 
+
+![alt text](https://github.com/d4rkshell/Daily-InfoSec-News/blob/main/Daily-InfoSec-News_sample.png?raw=true)
 
 ## Overview
 I wrote this script to automate the process of checking daily InfoSec news articles from a variety of online sources:
